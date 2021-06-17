@@ -1,0 +1,23 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NoiDz",
+    "home_page_url": "canonical_base",
+    "feed_url": "canonical_base/feed.json",
+    "description": "NoiDz is comeback!",
+    "items": [
+        {
+            "id": "canonical_base/post/2021/06/11/life-saving-rule.html",
+            "url": "canonical_base/post/2021/06/11/life-saving-rule.html",
+            "title": "25 Life saving rules !!!",
+            "summary": "\nIn the end, everything will be fine. If it's not okay, it's not the end.\n",
+            "date_modified": "2021-06-11T00:00:00.000Z"
+        },
+        {
+            "id": "canonical_base/post/2021/06/10/life-saving-rules.html",
+            "url": "canonical_base/post/2021/06/10/life-saving-rules.html",
+            "title": "25 Life saving rules !!!",
+            "summary": "\nIn the end, everything will be fine. If it's not okay, it's not the end.\n",
+            "date_modified": "2021-06-10T00:00:00.000Z"
+        }
+    ]
+}

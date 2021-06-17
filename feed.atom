@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>canonical_base</id>
+    <title>NoiDz</title>
+    <updated>2021-06-17T11:12:00.424Z</updated>
+    <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
+    <link rel="alternate" href="canonical_base"/>
+    <link rel="self" href="canonical_base/feed.atom"/>
+    <subtitle>NoiDz is comeback!</subtitle>
+    <entry>
+        <title type="html"><![CDATA[25 Life saving rules !!!]]></title>
+        <id>canonical_base/post/2021/06/11/life-saving-rule.html</id>
+        <link href="canonical_base/post/2021/06/11/life-saving-rule.html">
+        </link>
+        <updated>2021-06-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[
+In the end, everything will be fine. If it's not okay, it's not the end.
+]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[25 Life saving rules !!!]]></title>
+        <id>canonical_base/post/2021/06/10/life-saving-rules.html</id>
+        <link href="canonical_base/post/2021/06/10/life-saving-rules.html">
+        </link>
+        <updated>2021-06-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[
+In the end, everything will be fine. If it's not okay, it's not the end.
+]]></summary>
+    </entry>
+</feed>
